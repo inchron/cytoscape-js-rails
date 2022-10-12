@@ -3,7 +3,7 @@
 module Cytoscape
   module Js
     module Rails
-      VERSION = "3.16.1"
+      VERSION = "3.23.0"
     end
   end
 end
